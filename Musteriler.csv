@@ -1,0 +1,1001 @@
+﻿Musteri_ID,Cinsiyet,Yas,Bolge,Sehir,Musteri_Segmenti,Uyelik_Tarihi
+CUST-1000,Kadın,44,Akdeniz,Antalya,Bireysel,2022-04-13
+CUST-1001,Erkek,47,Ege,Manisa,Bireysel,2023-01-08
+CUST-1002,Kadın,25,Akdeniz,Hatay,Kurumsal,2022-12-10
+CUST-1003,Kadın,44,Akdeniz,Adana,Bireysel,2022-06-10
+CUST-1004,Kadın,48,Akdeniz,Adana,Bireysel,2022-02-18
+CUST-1005,Kadın,51,İç Anadolu,Eskişehir,Bireysel,2022-07-07
+CUST-1006,Kadın,26,İç Anadolu,Kayseri,Bireysel,2023-04-30
+CUST-1007,Erkek,41,İç Anadolu,Eskişehir,Bireysel,2023-01-23
+CUST-1008,Kadın,32,Marmara,Balıkesir,Bireysel,2022-12-12
+CUST-1009,Erkek,30,Karadeniz,Trabzon,Kurumsal,2023-03-04
+CUST-1010,Kadın,40,Karadeniz,Rize,Bireysel,2023-02-24
+CUST-1011,Kadın,29,Ege,Muğla,Kurumsal,2022-02-23
+CUST-1012,Erkek,41,Ege,Muğla,Bireysel,2022-08-06
+CUST-1013,Kadın,37,Akdeniz,Adana,Bireysel,2022-12-17
+CUST-1014,Erkek,25,Akdeniz,Antalya,Öğrenci,2022-08-25
+CUST-1015,Kadın,48,Ege,Manisa,Kurumsal,2022-09-09
+CUST-1016,Erkek,38,Akdeniz,Hatay,Bireysel,2022-10-28
+CUST-1017,Kadın,18,Marmara,İstanbul,Öğrenci,2023-05-07
+CUST-1018,Erkek,58,İç Anadolu,Eskişehir,Kurumsal,2022-10-16
+CUST-1019,Kadın,18,İç Anadolu,Ankara,Öğrenci,2022-01-28
+CUST-1020,Erkek,46,Marmara,Balıkesir,Bireysel,2022-03-03
+CUST-1021,Kadın,50,Karadeniz,Ordu,Bireysel,2022-02-04
+CUST-1022,Kadın,26,Marmara,Kocaeli,Bireysel,2022-09-14
+CUST-1023,Kadın,62,Karadeniz,Trabzon,Bireysel,2022-10-10
+CUST-1024,Kadın,36,Marmara,Kocaeli,Bireysel,2022-06-28
+CUST-1025,Kadın,53,Marmara,Balıkesir,Bireysel,2023-04-30
+CUST-1026,Kadın,36,Karadeniz,Ordu,Kurumsal,2022-06-09
+CUST-1027,Kadın,29,İç Anadolu,Eskişehir,Bireysel,2022-10-11
+CUST-1028,Kadın,34,Akdeniz,Hatay,Bireysel,2022-05-08
+CUST-1029,Erkek,56,Ege,Manisa,Kurumsal,2023-01-20
+CUST-1030,Kadın,36,Marmara,Kocaeli,Bireysel,2022-08-21
+CUST-1031,Erkek,32,İç Anadolu,Eskişehir,Bireysel,2022-11-14
+CUST-1032,Kadın,47,Karadeniz,Samsun,Bireysel,2023-04-08
+CUST-1033,Kadın,64,İç Anadolu,Konya,Bireysel,2022-06-29
+CUST-1034,Kadın,21,Marmara,Bursa,Öğrenci,2022-10-22
+CUST-1035,Erkek,40,Ege,Manisa,Bireysel,2022-07-06
+CUST-1036,Kadın,46,Marmara,Bursa,Bireysel,2023-04-30
+CUST-1037,Kadın,49,Marmara,İstanbul,Bireysel,2022-06-09
+CUST-1038,Erkek,40,Akdeniz,Mersin,Kurumsal,2022-09-12
+CUST-1039,Kadın,20,Karadeniz,Rize,Öğrenci,2022-08-28
+CUST-1040,Kadın,39,Marmara,İstanbul,Bireysel,2022-12-15
+CUST-1041,Kadın,42,İç Anadolu,Kayseri,Bireysel,2022-12-12
+CUST-1042,Kadın,30,İç Anadolu,Eskişehir,Bireysel,2022-11-04
+CUST-1043,Erkek,41,Marmara,İstanbul,Bireysel,2022-12-26
+CUST-1044,Erkek,46,Marmara,Kocaeli,Bireysel,2023-02-19
+CUST-1045,Kadın,49,Ege,Manisa,Bireysel,2022-04-22
+CUST-1046,Kadın,24,Marmara,Balıkesir,Bireysel,2022-10-31
+CUST-1047,Erkek,24,Akdeniz,Antalya,Öğrenci,2022-01-09
+CUST-1048,Kadın,26,Marmara,Kocaeli,Kurumsal,2023-02-08
+CUST-1049,Erkek,31,Marmara,Balıkesir,Kurumsal,2023-02-24
+CUST-1050,Kadın,48,Akdeniz,Adana,Bireysel,2022-04-09
+CUST-1051,Kadın,41,Marmara,İstanbul,Bireysel,2022-07-13
+CUST-1052,Kadın,18,İç Anadolu,Kayseri,Öğrenci,2022-03-09
+CUST-1053,Kadın,31,Marmara,Bursa,Bireysel,2022-05-15
+CUST-1054,Kadın,35,İç Anadolu,Ankara,Bireysel,2023-03-19
+CUST-1055,Kadın,53,İç Anadolu,Konya,Bireysel,2022-02-07
+CUST-1056,Erkek,50,Karadeniz,Ordu,Kurumsal,2022-08-14
+CUST-1057,Erkek,56,Karadeniz,Trabzon,Kurumsal,2023-03-29
+CUST-1058,Kadın,58,Akdeniz,Antalya,Bireysel,2022-07-11
+CUST-1059,Kadın,53,Marmara,Balıkesir,Bireysel,2023-04-22
+CUST-1060,Erkek,60,Karadeniz,Trabzon,Bireysel,2022-10-07
+CUST-1061,Erkek,58,Karadeniz,Samsun,Bireysel,2022-07-07
+CUST-1062,Erkek,55,Marmara,Balıkesir,Bireysel,2023-04-16
+CUST-1063,Kadın,48,Marmara,Balıkesir,Bireysel,2023-05-05
+CUST-1064,Kadın,55,Ege,Manisa,Bireysel,2023-03-07
+CUST-1065,Kadın,49,Ege,Manisa,Bireysel,2022-09-30
+CUST-1066,Kadın,62,Marmara,İstanbul,Kurumsal,2023-04-22
+CUST-1067,Kadın,48,Ege,Manisa,Bireysel,2023-02-12
+CUST-1068,Erkek,59,Karadeniz,Rize,Bireysel,2022-06-22
+CUST-1069,Kadın,39,Akdeniz,Antalya,Bireysel,2022-05-22
+CUST-1070,Kadın,57,Akdeniz,Mersin,Bireysel,2022-11-18
+CUST-1071,Kadın,45,İç Anadolu,Ankara,Bireysel,2022-11-10
+CUST-1072,Kadın,29,Ege,Aydın,Bireysel,2022-09-28
+CUST-1073,Kadın,28,İç Anadolu,Kayseri,Bireysel,2022-04-13
+CUST-1074,Kadın,53,Akdeniz,Adana,Bireysel,2022-02-16
+CUST-1075,Kadın,36,İç Anadolu,Eskişehir,Bireysel,2023-01-05
+CUST-1076,Erkek,42,Akdeniz,Adana,Bireysel,2022-04-02
+CUST-1077,Kadın,46,Ege,Manisa,Bireysel,2022-05-07
+CUST-1078,Kadın,24,Marmara,Balıkesir,Bireysel,2022-08-27
+CUST-1079,Kadın,48,Ege,Muğla,Bireysel,2023-05-03
+CUST-1080,Erkek,62,Karadeniz,Samsun,Kurumsal,2022-07-11
+CUST-1081,Erkek,35,Karadeniz,Trabzon,Kurumsal,2022-06-03
+CUST-1082,Erkek,37,İç Anadolu,Ankara,Bireysel,2022-08-08
+CUST-1083,Kadın,28,Karadeniz,Ordu,Bireysel,2022-07-23
+CUST-1084,Erkek,59,Ege,Aydın,Bireysel,2022-10-16
+CUST-1085,Kadın,28,Karadeniz,Ordu,Bireysel,2022-04-10
+CUST-1086,Kadın,42,Ege,Muğla,Bireysel,2023-03-18
+CUST-1087,Kadın,39,Marmara,Balıkesir,Kurumsal,2022-10-07
+CUST-1088,Kadın,50,Ege,İzmir,Kurumsal,2022-12-06
+CUST-1089,Erkek,56,Akdeniz,Adana,Bireysel,2023-03-21
+CUST-1090,Erkek,18,İç Anadolu,Eskişehir,Öğrenci,2023-02-21
+CUST-1091,Erkek,35,Ege,Manisa,Bireysel,2022-04-05
+CUST-1092,Erkek,46,Ege,İzmir,Bireysel,2022-12-03
+CUST-1093,Kadın,49,Ege,Muğla,Bireysel,2023-02-22
+CUST-1094,Kadın,34,İç Anadolu,Ankara,Bireysel,2023-02-17
+CUST-1095,Erkek,59,Akdeniz,Antalya,Kurumsal,2023-01-29
+CUST-1096,Erkek,58,Karadeniz,Samsun,Bireysel,2023-05-11
+CUST-1097,Kadın,47,Akdeniz,Adana,Bireysel,2022-05-31
+CUST-1098,Erkek,46,Karadeniz,Rize,Bireysel,2022-08-05
+CUST-1099,Erkek,43,İç Anadolu,Ankara,Bireysel,2023-01-03
+CUST-1100,Erkek,59,Marmara,Bursa,Bireysel,2023-01-31
+CUST-1101,Erkek,30,Karadeniz,Samsun,Kurumsal,2022-10-11
+CUST-1102,Kadın,28,Akdeniz,Mersin,Bireysel,2022-04-09
+CUST-1103,Erkek,59,Akdeniz,Antalya,Bireysel,2022-02-22
+CUST-1104,Kadın,62,Marmara,Kocaeli,Bireysel,2023-02-02
+CUST-1105,Erkek,34,Ege,İzmir,Kurumsal,2022-05-26
+CUST-1106,Kadın,40,Akdeniz,Antalya,Kurumsal,2022-09-10
+CUST-1107,Kadın,50,Karadeniz,Rize,Bireysel,2022-05-02
+CUST-1108,Kadın,42,Ege,İzmir,Bireysel,2022-05-16
+CUST-1109,Erkek,30,Karadeniz,Samsun,Kurumsal,2022-08-05
+CUST-1110,Kadın,54,Karadeniz,Rize,Bireysel,2022-10-02
+CUST-1111,Erkek,33,Karadeniz,Rize,Bireysel,2022-12-12
+CUST-1112,Erkek,36,İç Anadolu,Eskişehir,Bireysel,2022-08-30
+CUST-1113,Kadın,31,Akdeniz,Adana,Bireysel,2022-11-13
+CUST-1114,Erkek,51,Marmara,Kocaeli,Kurumsal,2022-07-09
+CUST-1115,Erkek,56,Marmara,Kocaeli,Bireysel,2023-02-26
+CUST-1116,Erkek,55,Karadeniz,Trabzon,Kurumsal,2022-06-22
+CUST-1117,Kadın,44,Karadeniz,Ordu,Kurumsal,2022-07-22
+CUST-1118,Erkek,43,Akdeniz,Antalya,Bireysel,2023-03-17
+CUST-1119,Kadın,38,Ege,Manisa,Kurumsal,2023-02-19
+CUST-1120,Erkek,39,Marmara,İstanbul,Kurumsal,2023-04-16
+CUST-1121,Kadın,39,Marmara,Kocaeli,Bireysel,2023-04-01
+CUST-1122,Kadın,51,Akdeniz,Hatay,Kurumsal,2022-06-13
+CUST-1123,Kadın,51,Ege,Muğla,Bireysel,2022-08-08
+CUST-1124,Erkek,40,Karadeniz,Samsun,Bireysel,2022-07-20
+CUST-1125,Kadın,52,Marmara,İstanbul,Kurumsal,2023-02-01
+CUST-1126,Erkek,25,İç Anadolu,Ankara,Öğrenci,2022-07-16
+CUST-1127,Kadın,28,Marmara,Bursa,Bireysel,2022-04-29
+CUST-1128,Kadın,34,Marmara,Bursa,Kurumsal,2022-12-07
+CUST-1129,Erkek,50,Ege,Manisa,Bireysel,2022-06-26
+CUST-1130,Erkek,24,Karadeniz,Samsun,Bireysel,2023-02-09
+CUST-1131,Erkek,61,Akdeniz,Antalya,Bireysel,2022-09-16
+CUST-1132,Erkek,33,Karadeniz,Ordu,Kurumsal,2023-04-03
+CUST-1133,Erkek,24,İç Anadolu,Ankara,Bireysel,2022-02-20
+CUST-1134,Erkek,63,Karadeniz,Samsun,Bireysel,2022-10-15
+CUST-1135,Erkek,49,Ege,Muğla,Bireysel,2022-09-07
+CUST-1136,Erkek,35,Ege,Aydın,Kurumsal,2023-03-25
+CUST-1137,Erkek,40,Akdeniz,Antalya,Bireysel,2022-04-22
+CUST-1138,Erkek,62,Karadeniz,Samsun,Kurumsal,2023-02-26
+CUST-1139,Kadın,41,Akdeniz,Adana,Bireysel,2022-10-13
+CUST-1140,Kadın,18,İç Anadolu,Eskişehir,Öğrenci,2022-06-15
+CUST-1141,Kadın,24,Marmara,Balıkesir,Öğrenci,2022-04-16
+CUST-1142,Kadın,19,İç Anadolu,Ankara,Öğrenci,2022-07-03
+CUST-1143,Kadın,47,Marmara,Bursa,Kurumsal,2022-03-10
+CUST-1144,Erkek,34,Ege,Aydın,Bireysel,2023-01-06
+CUST-1145,Erkek,34,Marmara,Kocaeli,Bireysel,2023-01-09
+CUST-1146,Erkek,26,Akdeniz,Hatay,Kurumsal,2022-12-18
+CUST-1147,Kadın,42,İç Anadolu,Eskişehir,Kurumsal,2022-10-04
+CUST-1148,Erkek,45,Karadeniz,Trabzon,Bireysel,2023-02-09
+CUST-1149,Kadın,57,Marmara,İstanbul,Bireysel,2023-03-09
+CUST-1150,Kadın,45,Ege,İzmir,Bireysel,2022-08-27
+CUST-1151,Erkek,49,İç Anadolu,Eskişehir,Bireysel,2022-10-19
+CUST-1152,Erkek,38,Marmara,Balıkesir,Kurumsal,2022-10-30
+CUST-1153,Kadın,25,Ege,Muğla,Bireysel,2022-12-31
+CUST-1154,Erkek,30,Ege,Aydın,Bireysel,2022-01-03
+CUST-1155,Kadın,61,İç Anadolu,Eskişehir,Bireysel,2022-08-15
+CUST-1156,Erkek,60,İç Anadolu,Eskişehir,Bireysel,2022-01-28
+CUST-1157,Erkek,45,Ege,Manisa,Bireysel,2023-04-19
+CUST-1158,Kadın,48,Akdeniz,Antalya,Kurumsal,2022-03-09
+CUST-1159,Kadın,59,Ege,Manisa,Kurumsal,2022-04-21
+CUST-1160,Erkek,42,Ege,Manisa,Kurumsal,2022-02-11
+CUST-1161,Kadın,57,Marmara,İstanbul,Bireysel,2023-03-19
+CUST-1162,Erkek,56,İç Anadolu,Ankara,Bireysel,2023-03-13
+CUST-1163,Kadın,27,Karadeniz,Trabzon,Bireysel,2022-12-16
+CUST-1164,Erkek,47,İç Anadolu,Konya,Bireysel,2022-11-07
+CUST-1165,Erkek,63,Marmara,Kocaeli,Bireysel,2022-08-17
+CUST-1166,Kadın,43,Akdeniz,Hatay,Bireysel,2022-08-08
+CUST-1167,Kadın,53,İç Anadolu,Kayseri,Bireysel,2023-05-01
+CUST-1168,Erkek,20,İç Anadolu,Konya,Öğrenci,2023-01-27
+CUST-1169,Erkek,29,Ege,Manisa,Kurumsal,2023-02-14
+CUST-1170,Kadın,35,Akdeniz,Mersin,Bireysel,2022-02-16
+CUST-1171,Kadın,60,Marmara,Bursa,Kurumsal,2023-01-17
+CUST-1172,Erkek,26,İç Anadolu,Eskişehir,Bireysel,2022-06-10
+CUST-1173,Erkek,33,Ege,Muğla,Bireysel,2022-06-21
+CUST-1174,Kadın,24,Ege,İzmir,Kurumsal,2022-11-15
+CUST-1175,Erkek,38,Karadeniz,Samsun,Kurumsal,2023-02-12
+CUST-1176,Erkek,37,İç Anadolu,Konya,Bireysel,2023-01-08
+CUST-1177,Erkek,58,İç Anadolu,Ankara,Bireysel,2022-01-01
+CUST-1178,Erkek,64,Akdeniz,Hatay,Kurumsal,2022-08-17
+CUST-1179,Erkek,28,Akdeniz,Adana,Kurumsal,2022-12-05
+CUST-1180,Kadın,48,İç Anadolu,Konya,Bireysel,2022-08-25
+CUST-1181,Kadın,62,Ege,İzmir,Kurumsal,2022-04-14
+CUST-1182,Erkek,38,İç Anadolu,Ankara,Bireysel,2023-04-26
+CUST-1183,Erkek,25,Marmara,İstanbul,Kurumsal,2023-04-07
+CUST-1184,Erkek,29,Karadeniz,Rize,Bireysel,2022-05-14
+CUST-1185,Kadın,38,İç Anadolu,Eskişehir,Kurumsal,2022-04-21
+CUST-1186,Erkek,50,Karadeniz,Samsun,Bireysel,2023-02-24
+CUST-1187,Erkek,60,Karadeniz,Trabzon,Kurumsal,2023-02-15
+CUST-1188,Kadın,33,Marmara,Bursa,Bireysel,2022-01-05
+CUST-1189,Kadın,36,İç Anadolu,Konya,Bireysel,2022-06-08
+CUST-1190,Kadın,38,Akdeniz,Antalya,Bireysel,2022-06-06
+CUST-1191,Kadın,25,Karadeniz,Samsun,Bireysel,2023-02-15
+CUST-1192,Kadın,50,İç Anadolu,Eskişehir,Bireysel,2022-03-10
+CUST-1193,Kadın,23,Akdeniz,Mersin,Öğrenci,2022-05-14
+CUST-1194,Kadın,36,Ege,Aydın,Kurumsal,2022-04-14
+CUST-1195,Kadın,35,Ege,İzmir,Bireysel,2023-05-07
+CUST-1196,Kadın,60,Akdeniz,Hatay,Kurumsal,2022-11-24
+CUST-1197,Kadın,32,Ege,İzmir,Bireysel,2022-02-20
+CUST-1198,Kadın,20,Karadeniz,Trabzon,Öğrenci,2023-02-11
+CUST-1199,Kadın,59,Marmara,Bursa,Bireysel,2022-07-01
+CUST-1200,Erkek,63,Marmara,İstanbul,Kurumsal,2023-02-03
+CUST-1201,Erkek,33,Karadeniz,Ordu,Bireysel,2023-03-12
+CUST-1202,Erkek,48,Marmara,İstanbul,Kurumsal,2022-03-31
+CUST-1203,Kadın,50,İç Anadolu,Konya,Bireysel,2023-02-22
+CUST-1204,Erkek,47,İç Anadolu,Ankara,Bireysel,2022-01-25
+CUST-1205,Erkek,52,Akdeniz,Adana,Bireysel,2022-03-04
+CUST-1206,Kadın,44,İç Anadolu,Konya,Bireysel,2022-02-18
+CUST-1207,Kadın,45,Marmara,Balıkesir,Bireysel,2023-04-21
+CUST-1208,Erkek,55,Karadeniz,Rize,Bireysel,2022-05-21
+CUST-1209,Kadın,55,İç Anadolu,Eskişehir,Kurumsal,2022-06-07
+CUST-1210,Kadın,39,Karadeniz,Samsun,Bireysel,2023-02-28
+CUST-1211,Erkek,25,İç Anadolu,Konya,Bireysel,2023-04-21
+CUST-1212,Erkek,27,Marmara,Bursa,Bireysel,2023-01-20
+CUST-1213,Kadın,19,Karadeniz,Ordu,Öğrenci,2023-04-03
+CUST-1214,Erkek,46,İç Anadolu,Konya,Bireysel,2022-02-24
+CUST-1215,Erkek,31,Akdeniz,Hatay,Kurumsal,2022-11-17
+CUST-1216,Erkek,31,Marmara,Kocaeli,Bireysel,2022-02-23
+CUST-1217,Erkek,56,Marmara,Kocaeli,Bireysel,2022-04-02
+CUST-1218,Kadın,55,Ege,Manisa,Bireysel,2022-04-30
+CUST-1219,Erkek,44,İç Anadolu,Kayseri,Bireysel,2023-02-02
+CUST-1220,Erkek,46,Ege,Manisa,Kurumsal,2022-03-26
+CUST-1221,Kadın,52,İç Anadolu,Kayseri,Bireysel,2022-07-07
+CUST-1222,Erkek,21,Ege,Aydın,Öğrenci,2022-01-11
+CUST-1223,Erkek,35,Ege,Manisa,Bireysel,2022-01-20
+CUST-1224,Kadın,32,Karadeniz,Samsun,Bireysel,2022-08-14
+CUST-1225,Kadın,45,Karadeniz,Rize,Bireysel,2022-12-30
+CUST-1226,Erkek,46,Marmara,Bursa,Bireysel,2022-05-08
+CUST-1227,Kadın,32,Marmara,Bursa,Bireysel,2022-02-09
+CUST-1228,Erkek,45,Ege,İzmir,Bireysel,2022-08-23
+CUST-1229,Erkek,57,Akdeniz,Adana,Bireysel,2022-08-03
+CUST-1230,Kadın,44,Karadeniz,Ordu,Kurumsal,2022-02-11
+CUST-1231,Erkek,60,Akdeniz,Antalya,Bireysel,2022-06-02
+CUST-1232,Kadın,45,Ege,Muğla,Bireysel,2023-04-14
+CUST-1233,Erkek,63,İç Anadolu,Ankara,Bireysel,2022-04-08
+CUST-1234,Erkek,33,Akdeniz,Antalya,Kurumsal,2022-06-22
+CUST-1235,Kadın,25,Marmara,Bursa,Bireysel,2022-11-06
+CUST-1236,Kadın,49,İç Anadolu,Ankara,Bireysel,2022-01-29
+CUST-1237,Kadın,59,Karadeniz,Ordu,Bireysel,2022-04-23
+CUST-1238,Kadın,57,İç Anadolu,Eskişehir,Kurumsal,2022-02-24
+CUST-1239,Kadın,43,Karadeniz,Rize,Bireysel,2023-04-12
+CUST-1240,Kadın,57,İç Anadolu,Kayseri,Bireysel,2022-07-20
+CUST-1241,Erkek,63,Ege,Aydın,Bireysel,2022-01-17
+CUST-1242,Kadın,48,Marmara,İstanbul,Kurumsal,2022-02-08
+CUST-1243,Kadın,53,İç Anadolu,Eskişehir,Bireysel,2022-04-12
+CUST-1244,Kadın,40,Ege,Muğla,Bireysel,2022-11-26
+CUST-1245,Kadın,39,Marmara,Kocaeli,Bireysel,2022-08-04
+CUST-1246,Erkek,46,İç Anadolu,Kayseri,Kurumsal,2023-04-30
+CUST-1247,Erkek,49,Marmara,Bursa,Bireysel,2023-05-04
+CUST-1248,Kadın,39,Karadeniz,Trabzon,Bireysel,2022-07-18
+CUST-1249,Kadın,30,Marmara,Kocaeli,Bireysel,2022-09-27
+CUST-1250,Kadın,31,Karadeniz,Ordu,Bireysel,2023-05-13
+CUST-1251,Erkek,53,İç Anadolu,Eskişehir,Kurumsal,2023-01-07
+CUST-1252,Erkek,40,İç Anadolu,Konya,Bireysel,2022-01-14
+CUST-1253,Kadın,26,İç Anadolu,Kayseri,Bireysel,2022-10-20
+CUST-1254,Erkek,62,İç Anadolu,Kayseri,Bireysel,2022-01-15
+CUST-1255,Erkek,36,Marmara,Balıkesir,Kurumsal,2022-07-29
+CUST-1256,Kadın,25,Marmara,Balıkesir,Bireysel,2022-11-07
+CUST-1257,Erkek,24,İç Anadolu,Konya,Öğrenci,2022-09-26
+CUST-1258,Erkek,20,Karadeniz,Trabzon,Öğrenci,2022-02-08
+CUST-1259,Erkek,39,Akdeniz,Antalya,Kurumsal,2023-03-16
+CUST-1260,Kadın,48,Akdeniz,Mersin,Bireysel,2022-12-25
+CUST-1261,Erkek,26,Akdeniz,Antalya,Kurumsal,2023-03-05
+CUST-1262,Erkek,48,Ege,Muğla,Kurumsal,2023-03-08
+CUST-1263,Erkek,24,Marmara,İstanbul,Öğrenci,2022-11-01
+CUST-1264,Erkek,60,Marmara,Balıkesir,Bireysel,2022-03-02
+CUST-1265,Erkek,47,Karadeniz,Ordu,Bireysel,2022-01-11
+CUST-1266,Kadın,27,Karadeniz,Trabzon,Bireysel,2022-02-28
+CUST-1267,Erkek,33,Akdeniz,Antalya,Kurumsal,2022-04-17
+CUST-1268,Erkek,26,Ege,İzmir,Bireysel,2023-01-11
+CUST-1269,Erkek,32,Karadeniz,Samsun,Kurumsal,2022-04-09
+CUST-1270,Erkek,58,Akdeniz,Adana,Bireysel,2022-06-27
+CUST-1271,Erkek,25,Ege,Aydın,Öğrenci,2022-08-15
+CUST-1272,Erkek,32,Karadeniz,Rize,Kurumsal,2022-03-09
+CUST-1273,Kadın,26,Karadeniz,Trabzon,Bireysel,2022-05-03
+CUST-1274,Erkek,57,Akdeniz,Antalya,Kurumsal,2022-11-28
+CUST-1275,Erkek,28,Ege,İzmir,Bireysel,2023-01-30
+CUST-1276,Erkek,61,İç Anadolu,Konya,Bireysel,2022-11-24
+CUST-1277,Kadın,29,İç Anadolu,Ankara,Bireysel,2022-02-06
+CUST-1278,Erkek,36,Akdeniz,Hatay,Kurumsal,2022-03-22
+CUST-1279,Kadın,52,Ege,Muğla,Kurumsal,2022-04-25
+CUST-1280,Kadın,63,Ege,Manisa,Bireysel,2022-12-13
+CUST-1281,Kadın,42,Karadeniz,Samsun,Kurumsal,2022-12-02
+CUST-1282,Kadın,64,Akdeniz,Antalya,Bireysel,2022-09-26
+CUST-1283,Kadın,59,İç Anadolu,Ankara,Kurumsal,2022-07-10
+CUST-1284,Erkek,54,İç Anadolu,Konya,Bireysel,2022-01-23
+CUST-1285,Erkek,53,Ege,Aydın,Kurumsal,2022-02-08
+CUST-1286,Erkek,52,Ege,Muğla,Bireysel,2022-01-12
+CUST-1287,Erkek,64,Ege,Muğla,Bireysel,2022-01-17
+CUST-1288,Erkek,58,Ege,Muğla,Bireysel,2023-05-11
+CUST-1289,Erkek,55,İç Anadolu,Konya,Bireysel,2023-04-27
+CUST-1290,Erkek,52,Akdeniz,Hatay,Bireysel,2022-10-05
+CUST-1291,Kadın,27,Akdeniz,Hatay,Kurumsal,2022-08-07
+CUST-1292,Kadın,24,Marmara,Balıkesir,Bireysel,2022-01-22
+CUST-1293,Kadın,37,Ege,Muğla,Bireysel,2022-07-11
+CUST-1294,Erkek,35,Karadeniz,Rize,Kurumsal,2022-01-07
+CUST-1295,Erkek,38,Karadeniz,Ordu,Kurumsal,2023-02-20
+CUST-1296,Kadın,57,İç Anadolu,Eskişehir,Kurumsal,2023-03-06
+CUST-1297,Erkek,22,Ege,İzmir,Öğrenci,2023-05-04
+CUST-1298,Kadın,25,Karadeniz,Samsun,Bireysel,2022-06-24
+CUST-1299,Erkek,40,Akdeniz,Adana,Bireysel,2023-01-17
+CUST-1300,Erkek,39,Akdeniz,Hatay,Bireysel,2022-12-23
+CUST-1301,Erkek,28,İç Anadolu,Kayseri,Bireysel,2023-01-22
+CUST-1302,Kadın,38,İç Anadolu,Ankara,Bireysel,2022-06-11
+CUST-1303,Erkek,47,Karadeniz,Ordu,Bireysel,2022-01-12
+CUST-1304,Erkek,31,Ege,Manisa,Bireysel,2022-03-01
+CUST-1305,Kadın,38,Marmara,İstanbul,Bireysel,2022-01-27
+CUST-1306,Erkek,47,Ege,Muğla,Bireysel,2022-11-12
+CUST-1307,Erkek,48,Ege,Manisa,Bireysel,2022-08-10
+CUST-1308,Kadın,32,Marmara,Bursa,Kurumsal,2022-06-15
+CUST-1309,Kadın,25,Marmara,Balıkesir,Bireysel,2022-12-10
+CUST-1310,Kadın,44,İç Anadolu,Kayseri,Bireysel,2022-10-01
+CUST-1311,Kadın,25,Ege,Aydın,Öğrenci,2022-01-11
+CUST-1312,Kadın,64,Karadeniz,Samsun,Kurumsal,2023-01-27
+CUST-1313,Erkek,40,İç Anadolu,Konya,Kurumsal,2022-03-17
+CUST-1314,Kadın,45,Marmara,Bursa,Bireysel,2022-04-02
+CUST-1315,Kadın,56,Akdeniz,Antalya,Bireysel,2022-01-02
+CUST-1316,Kadın,56,Marmara,İstanbul,Kurumsal,2022-03-18
+CUST-1317,Kadın,61,Akdeniz,Adana,Bireysel,2022-12-25
+CUST-1318,Erkek,57,Ege,Aydın,Kurumsal,2022-04-16
+CUST-1319,Erkek,20,Akdeniz,Antalya,Öğrenci,2022-05-03
+CUST-1320,Erkek,55,Marmara,Bursa,Kurumsal,2022-02-10
+CUST-1321,Kadın,51,Ege,Muğla,Kurumsal,2022-11-14
+CUST-1322,Erkek,30,Akdeniz,Adana,Kurumsal,2023-04-04
+CUST-1323,Kadın,45,Akdeniz,Hatay,Bireysel,2023-02-14
+CUST-1324,Kadın,37,İç Anadolu,Eskişehir,Bireysel,2023-04-04
+CUST-1325,Kadın,36,Ege,Aydın,Bireysel,2022-01-25
+CUST-1326,Erkek,59,Karadeniz,Ordu,Bireysel,2022-06-22
+CUST-1327,Kadın,41,Karadeniz,Ordu,Bireysel,2023-03-30
+CUST-1328,Kadın,64,Ege,Manisa,Bireysel,2022-02-28
+CUST-1329,Erkek,52,İç Anadolu,Kayseri,Bireysel,2023-03-14
+CUST-1330,Kadın,44,Marmara,Kocaeli,Bireysel,2022-06-08
+CUST-1331,Erkek,27,Ege,İzmir,Kurumsal,2022-08-08
+CUST-1332,Kadın,19,Akdeniz,Adana,Öğrenci,2022-06-26
+CUST-1333,Kadın,57,İç Anadolu,Kayseri,Bireysel,2022-08-16
+CUST-1334,Kadın,24,Ege,Manisa,Öğrenci,2023-03-02
+CUST-1335,Erkek,35,İç Anadolu,Eskişehir,Bireysel,2022-05-11
+CUST-1336,Erkek,56,Karadeniz,Trabzon,Kurumsal,2022-12-21
+CUST-1337,Kadın,46,Ege,Muğla,Bireysel,2022-10-25
+CUST-1338,Erkek,22,Akdeniz,Adana,Öğrenci,2022-11-21
+CUST-1339,Kadın,37,Karadeniz,Samsun,Bireysel,2022-08-19
+CUST-1340,Kadın,40,Marmara,Balıkesir,Bireysel,2023-01-14
+CUST-1341,Erkek,60,Marmara,İstanbul,Bireysel,2022-09-18
+CUST-1342,Kadın,46,Marmara,Balıkesir,Bireysel,2022-10-30
+CUST-1343,Kadın,39,İç Anadolu,Konya,Bireysel,2023-04-03
+CUST-1344,Erkek,24,Karadeniz,Trabzon,Kurumsal,2022-05-13
+CUST-1345,Erkek,43,Akdeniz,Hatay,Kurumsal,2022-10-11
+CUST-1346,Erkek,35,Marmara,Kocaeli,Kurumsal,2022-06-14
+CUST-1347,Kadın,51,Marmara,İstanbul,Kurumsal,2023-01-02
+CUST-1348,Kadın,37,Akdeniz,Mersin,Bireysel,2022-05-10
+CUST-1349,Kadın,52,Marmara,Kocaeli,Bireysel,2022-01-01
+CUST-1350,Erkek,28,İç Anadolu,Konya,Bireysel,2022-06-10
+CUST-1351,Kadın,43,Marmara,Kocaeli,Bireysel,2022-06-30
+CUST-1352,Kadın,57,Ege,Muğla,Kurumsal,2022-08-05
+CUST-1353,Erkek,46,Ege,İzmir,Kurumsal,2023-03-04
+CUST-1354,Erkek,39,Akdeniz,Mersin,Bireysel,2023-03-10
+CUST-1355,Kadın,44,Ege,Muğla,Kurumsal,2022-05-09
+CUST-1356,Erkek,45,Karadeniz,Rize,Bireysel,2022-06-24
+CUST-1357,Kadın,33,Ege,İzmir,Kurumsal,2023-02-18
+CUST-1358,Kadın,63,Ege,Aydın,Kurumsal,2023-01-04
+CUST-1359,Kadın,21,Akdeniz,Mersin,Öğrenci,2022-10-16
+CUST-1360,Kadın,22,Marmara,Kocaeli,Öğrenci,2022-10-31
+CUST-1361,Kadın,25,Karadeniz,Samsun,Bireysel,2023-05-13
+CUST-1362,Kadın,36,Marmara,İstanbul,Bireysel,2022-03-14
+CUST-1363,Erkek,27,Karadeniz,Samsun,Bireysel,2022-04-08
+CUST-1364,Kadın,42,Karadeniz,Trabzon,Bireysel,2023-03-30
+CUST-1365,Erkek,42,Ege,Aydın,Kurumsal,2022-12-31
+CUST-1366,Kadın,30,İç Anadolu,Ankara,Bireysel,2022-03-30
+CUST-1367,Kadın,30,Karadeniz,Ordu,Kurumsal,2022-05-23
+CUST-1368,Erkek,56,Karadeniz,Ordu,Bireysel,2022-11-01
+CUST-1369,Kadın,34,Marmara,Kocaeli,Bireysel,2022-12-21
+CUST-1370,Erkek,44,Ege,Aydın,Bireysel,2022-10-09
+CUST-1371,Erkek,19,Ege,Aydın,Öğrenci,2022-06-02
+CUST-1372,Erkek,38,Akdeniz,Antalya,Bireysel,2022-10-27
+CUST-1373,Erkek,29,Akdeniz,Mersin,Bireysel,2022-10-29
+CUST-1374,Erkek,22,Ege,Muğla,Öğrenci,2023-02-11
+CUST-1375,Erkek,38,İç Anadolu,Eskişehir,Kurumsal,2022-10-08
+CUST-1376,Kadın,44,Akdeniz,Mersin,Bireysel,2022-05-21
+CUST-1377,Kadın,50,İç Anadolu,Konya,Bireysel,2022-06-06
+CUST-1378,Kadın,59,Akdeniz,Mersin,Bireysel,2022-06-07
+CUST-1379,Kadın,49,Ege,Aydın,Bireysel,2022-12-11
+CUST-1380,Kadın,62,İç Anadolu,Eskişehir,Kurumsal,2023-02-01
+CUST-1381,Kadın,59,Marmara,Bursa,Bireysel,2022-03-25
+CUST-1382,Erkek,36,Akdeniz,Adana,Kurumsal,2023-01-10
+CUST-1383,Kadın,32,Karadeniz,Trabzon,Bireysel,2022-09-28
+CUST-1384,Erkek,31,Ege,Muğla,Bireysel,2022-06-01
+CUST-1385,Kadın,47,Marmara,Bursa,Bireysel,2022-01-19
+CUST-1386,Erkek,41,Akdeniz,Hatay,Kurumsal,2023-02-07
+CUST-1387,Kadın,28,Akdeniz,Adana,Bireysel,2022-06-24
+CUST-1388,Erkek,44,Marmara,Kocaeli,Kurumsal,2023-04-10
+CUST-1389,Erkek,55,Karadeniz,Ordu,Bireysel,2022-01-11
+CUST-1390,Erkek,48,Ege,İzmir,Bireysel,2022-09-15
+CUST-1391,Erkek,62,İç Anadolu,Eskişehir,Kurumsal,2023-03-01
+CUST-1392,Kadın,23,Marmara,Kocaeli,Öğrenci,2022-01-19
+CUST-1393,Kadın,62,Akdeniz,Adana,Bireysel,2022-04-19
+CUST-1394,Kadın,26,Akdeniz,Hatay,Kurumsal,2022-03-14
+CUST-1395,Erkek,27,Marmara,Kocaeli,Bireysel,2022-09-26
+CUST-1396,Erkek,50,Marmara,Balıkesir,Bireysel,2022-06-09
+CUST-1397,Kadın,26,Karadeniz,Rize,Kurumsal,2022-10-27
+CUST-1398,Kadın,25,Karadeniz,Trabzon,Bireysel,2022-08-03
+CUST-1399,Erkek,57,Akdeniz,Adana,Bireysel,2023-04-16
+CUST-1400,Kadın,59,Akdeniz,Hatay,Bireysel,2023-03-29
+CUST-1401,Erkek,39,Karadeniz,Samsun,Kurumsal,2022-04-16
+CUST-1402,Erkek,39,Marmara,Kocaeli,Kurumsal,2023-01-31
+CUST-1403,Erkek,24,Akdeniz,Mersin,Öğrenci,2022-12-14
+CUST-1404,Kadın,63,İç Anadolu,Kayseri,Bireysel,2022-09-05
+CUST-1405,Erkek,43,Akdeniz,Antalya,Kurumsal,2023-03-30
+CUST-1406,Erkek,39,Ege,Muğla,Kurumsal,2023-04-05
+CUST-1407,Kadın,56,Akdeniz,Adana,Bireysel,2022-05-31
+CUST-1408,Erkek,25,Ege,İzmir,Bireysel,2023-04-20
+CUST-1409,Erkek,46,Marmara,İstanbul,Bireysel,2022-06-03
+CUST-1410,Erkek,45,Akdeniz,Adana,Bireysel,2023-03-03
+CUST-1411,Kadın,61,Akdeniz,Antalya,Bireysel,2022-03-23
+CUST-1412,Kadın,53,Karadeniz,Ordu,Kurumsal,2023-04-07
+CUST-1413,Kadın,32,İç Anadolu,Kayseri,Bireysel,2023-02-03
+CUST-1414,Kadın,58,Karadeniz,Ordu,Bireysel,2023-04-11
+CUST-1415,Erkek,25,Akdeniz,Adana,Kurumsal,2022-10-08
+CUST-1416,Erkek,37,Karadeniz,Trabzon,Bireysel,2022-11-17
+CUST-1417,Erkek,29,Karadeniz,Rize,Bireysel,2022-01-25
+CUST-1418,Erkek,57,Karadeniz,Samsun,Bireysel,2023-03-28
+CUST-1419,Kadın,21,Marmara,Kocaeli,Öğrenci,2022-10-15
+CUST-1420,Kadın,19,Akdeniz,Antalya,Öğrenci,2023-04-22
+CUST-1421,Erkek,25,Akdeniz,Mersin,Kurumsal,2022-03-01
+CUST-1422,Erkek,57,İç Anadolu,Eskişehir,Bireysel,2022-09-23
+CUST-1423,Kadın,54,Marmara,Bursa,Bireysel,2022-02-25
+CUST-1424,Erkek,44,Marmara,Kocaeli,Bireysel,2022-11-25
+CUST-1425,Erkek,39,Akdeniz,Adana,Bireysel,2023-02-04
+CUST-1426,Erkek,63,Akdeniz,Antalya,Bireysel,2022-09-30
+CUST-1427,Erkek,59,Karadeniz,Ordu,Bireysel,2022-05-04
+CUST-1428,Erkek,58,Ege,Manisa,Kurumsal,2022-01-07
+CUST-1429,Erkek,60,İç Anadolu,Kayseri,Bireysel,2022-03-27
+CUST-1430,Kadın,50,Karadeniz,Trabzon,Bireysel,2023-02-09
+CUST-1431,Kadın,62,Karadeniz,Trabzon,Kurumsal,2023-01-24
+CUST-1432,Kadın,44,Marmara,İstanbul,Bireysel,2022-06-30
+CUST-1433,Kadın,18,Ege,İzmir,Öğrenci,2023-04-28
+CUST-1434,Erkek,49,Marmara,Balıkesir,Kurumsal,2022-07-15
+CUST-1435,Kadın,63,Ege,Muğla,Bireysel,2022-08-15
+CUST-1436,Kadın,44,Marmara,İstanbul,Bireysel,2022-02-11
+CUST-1437,Erkek,25,Karadeniz,Samsun,Öğrenci,2023-01-28
+CUST-1438,Kadın,52,Marmara,İstanbul,Kurumsal,2022-04-07
+CUST-1439,Kadın,63,Ege,Aydın,Bireysel,2022-10-04
+CUST-1440,Kadın,45,Akdeniz,Mersin,Bireysel,2022-07-19
+CUST-1441,Erkek,47,Marmara,Kocaeli,Kurumsal,2022-06-22
+CUST-1442,Erkek,46,İç Anadolu,Ankara,Kurumsal,2022-04-11
+CUST-1443,Erkek,24,Karadeniz,Rize,Bireysel,2022-04-19
+CUST-1444,Erkek,28,İç Anadolu,Kayseri,Bireysel,2022-05-28
+CUST-1445,Kadın,59,Karadeniz,Rize,Bireysel,2022-05-19
+CUST-1446,Erkek,21,Akdeniz,Mersin,Öğrenci,2022-02-20
+CUST-1447,Kadın,55,İç Anadolu,Konya,Bireysel,2022-01-08
+CUST-1448,Kadın,51,Ege,Aydın,Bireysel,2022-12-03
+CUST-1449,Kadın,26,Marmara,İstanbul,Bireysel,2022-02-18
+CUST-1450,Erkek,64,Akdeniz,Adana,Bireysel,2022-08-05
+CUST-1451,Kadın,33,Ege,Manisa,Bireysel,2022-05-29
+CUST-1452,Kadın,36,Akdeniz,Hatay,Bireysel,2022-06-30
+CUST-1453,Erkek,40,Akdeniz,Adana,Bireysel,2023-02-28
+CUST-1454,Kadın,37,Ege,Manisa,Bireysel,2022-05-04
+CUST-1455,Kadın,53,Ege,İzmir,Bireysel,2023-04-13
+CUST-1456,Kadın,44,Karadeniz,Rize,Bireysel,2023-04-28
+CUST-1457,Erkek,35,Ege,Muğla,Bireysel,2022-08-21
+CUST-1458,Erkek,31,Ege,İzmir,Kurumsal,2022-10-29
+CUST-1459,Kadın,45,Akdeniz,Hatay,Bireysel,2022-08-23
+CUST-1460,Erkek,41,Marmara,Bursa,Bireysel,2022-09-15
+CUST-1461,Erkek,54,Karadeniz,Samsun,Kurumsal,2023-04-08
+CUST-1462,Erkek,45,İç Anadolu,Eskişehir,Kurumsal,2022-06-20
+CUST-1463,Erkek,42,Karadeniz,Samsun,Kurumsal,2022-01-23
+CUST-1464,Erkek,48,Karadeniz,Trabzon,Kurumsal,2022-05-08
+CUST-1465,Kadın,39,Karadeniz,Ordu,Bireysel,2022-03-13
+CUST-1466,Erkek,27,Marmara,Balıkesir,Kurumsal,2022-04-14
+CUST-1467,Kadın,48,İç Anadolu,Kayseri,Kurumsal,2022-01-10
+CUST-1468,Erkek,50,Karadeniz,Rize,Kurumsal,2022-03-07
+CUST-1469,Kadın,59,Marmara,Balıkesir,Kurumsal,2022-03-27
+CUST-1470,Kadın,40,Ege,Aydın,Kurumsal,2023-04-07
+CUST-1471,Kadın,34,Marmara,Bursa,Kurumsal,2023-02-04
+CUST-1472,Kadın,42,İç Anadolu,Eskişehir,Bireysel,2022-04-11
+CUST-1473,Kadın,43,Ege,Muğla,Bireysel,2023-01-29
+CUST-1474,Erkek,63,İç Anadolu,Konya,Bireysel,2022-12-25
+CUST-1475,Kadın,43,Karadeniz,Trabzon,Kurumsal,2022-09-30
+CUST-1476,Kadın,60,Akdeniz,Antalya,Kurumsal,2022-12-02
+CUST-1477,Kadın,47,Ege,Manisa,Kurumsal,2022-06-11
+CUST-1478,Kadın,42,Ege,Manisa,Bireysel,2022-11-01
+CUST-1479,Kadın,53,İç Anadolu,Konya,Kurumsal,2022-11-10
+CUST-1480,Erkek,59,Karadeniz,Ordu,Kurumsal,2022-12-16
+CUST-1481,Erkek,51,Marmara,Kocaeli,Bireysel,2022-09-08
+CUST-1482,Erkek,18,İç Anadolu,Ankara,Öğrenci,2023-02-05
+CUST-1483,Erkek,38,Akdeniz,Hatay,Kurumsal,2022-07-17
+CUST-1484,Kadın,39,Akdeniz,Mersin,Kurumsal,2022-11-21
+CUST-1485,Kadın,26,Marmara,Balıkesir,Bireysel,2023-04-06
+CUST-1486,Kadın,29,İç Anadolu,Ankara,Bireysel,2022-12-03
+CUST-1487,Erkek,58,İç Anadolu,Ankara,Kurumsal,2022-10-29
+CUST-1488,Kadın,60,Ege,Manisa,Bireysel,2023-04-13
+CUST-1489,Erkek,59,Marmara,İstanbul,Bireysel,2022-03-11
+CUST-1490,Erkek,58,Ege,Muğla,Bireysel,2022-05-09
+CUST-1491,Kadın,54,Marmara,Balıkesir,Kurumsal,2022-03-25
+CUST-1492,Kadın,53,Marmara,Balıkesir,Bireysel,2022-12-08
+CUST-1493,Kadın,37,Akdeniz,Mersin,Bireysel,2022-04-30
+CUST-1494,Erkek,48,Ege,Muğla,Bireysel,2022-07-24
+CUST-1495,Kadın,43,Akdeniz,Antalya,Bireysel,2022-12-04
+CUST-1496,Kadın,56,Ege,Manisa,Bireysel,2023-04-20
+CUST-1497,Kadın,47,Ege,Muğla,Kurumsal,2022-05-23
+CUST-1498,Kadın,37,Karadeniz,Trabzon,Kurumsal,2022-11-09
+CUST-1499,Erkek,20,Karadeniz,Trabzon,Öğrenci,2022-03-28
+CUST-1500,Erkek,48,Ege,İzmir,Bireysel,2022-12-07
+CUST-1501,Erkek,27,Akdeniz,Antalya,Bireysel,2023-01-18
+CUST-1502,Erkek,56,Ege,İzmir,Kurumsal,2022-03-22
+CUST-1503,Kadın,64,Karadeniz,Samsun,Kurumsal,2023-02-27
+CUST-1504,Kadın,29,Marmara,İstanbul,Kurumsal,2022-04-08
+CUST-1505,Kadın,45,Marmara,Bursa,Bireysel,2022-04-22
+CUST-1506,Kadın,62,Marmara,Bursa,Bireysel,2022-03-27
+CUST-1507,Kadın,33,Akdeniz,Hatay,Kurumsal,2022-04-09
+CUST-1508,Kadın,30,İç Anadolu,Eskişehir,Bireysel,2022-10-04
+CUST-1509,Kadın,45,Akdeniz,Adana,Bireysel,2022-05-23
+CUST-1510,Kadın,37,Karadeniz,Ordu,Kurumsal,2023-02-15
+CUST-1511,Kadın,49,Karadeniz,Samsun,Bireysel,2023-01-04
+CUST-1512,Erkek,31,Ege,İzmir,Bireysel,2022-02-13
+CUST-1513,Kadın,62,Marmara,Bursa,Bireysel,2023-03-12
+CUST-1514,Erkek,28,Marmara,Kocaeli,Bireysel,2022-11-03
+CUST-1515,Kadın,47,İç Anadolu,Kayseri,Bireysel,2023-04-21
+CUST-1516,Kadın,32,Marmara,Balıkesir,Bireysel,2022-02-16
+CUST-1517,Kadın,35,Ege,Aydın,Bireysel,2023-01-21
+CUST-1518,Kadın,20,İç Anadolu,Ankara,Öğrenci,2022-02-09
+CUST-1519,Kadın,31,Marmara,Balıkesir,Bireysel,2022-04-11
+CUST-1520,Kadın,53,Akdeniz,Hatay,Bireysel,2023-03-30
+CUST-1521,Erkek,39,İç Anadolu,Kayseri,Bireysel,2022-05-09
+CUST-1522,Kadın,36,Karadeniz,Ordu,Bireysel,2022-06-11
+CUST-1523,Erkek,50,Akdeniz,Hatay,Kurumsal,2022-11-21
+CUST-1524,Erkek,43,Marmara,Kocaeli,Bireysel,2023-02-22
+CUST-1525,Erkek,51,Ege,Aydın,Bireysel,2023-04-22
+CUST-1526,Kadın,20,Marmara,Balıkesir,Öğrenci,2022-03-01
+CUST-1527,Erkek,32,Akdeniz,Antalya,Bireysel,2022-08-01
+CUST-1528,Kadın,53,Ege,Aydın,Kurumsal,2023-04-19
+CUST-1529,Kadın,56,Karadeniz,Rize,Kurumsal,2023-04-14
+CUST-1530,Erkek,24,İç Anadolu,Kayseri,Öğrenci,2022-12-04
+CUST-1531,Kadın,45,Ege,Manisa,Kurumsal,2022-09-30
+CUST-1532,Erkek,50,Karadeniz,Rize,Bireysel,2023-02-23
+CUST-1533,Kadın,25,Marmara,Balıkesir,Kurumsal,2023-04-28
+CUST-1534,Erkek,43,Akdeniz,Mersin,Bireysel,2022-05-04
+CUST-1535,Kadın,26,Marmara,Balıkesir,Bireysel,2022-01-04
+CUST-1536,Erkek,44,Ege,İzmir,Bireysel,2022-08-15
+CUST-1537,Kadın,37,Marmara,İstanbul,Bireysel,2023-04-29
+CUST-1538,Erkek,36,Akdeniz,Antalya,Kurumsal,2022-07-26
+CUST-1539,Erkek,20,Ege,Manisa,Öğrenci,2023-02-11
+CUST-1540,Kadın,61,İç Anadolu,Eskişehir,Bireysel,2022-05-22
+CUST-1541,Erkek,42,Akdeniz,Antalya,Bireysel,2022-01-30
+CUST-1542,Kadın,47,İç Anadolu,Kayseri,Bireysel,2022-09-27
+CUST-1543,Kadın,42,Ege,Aydın,Bireysel,2022-04-20
+CUST-1544,Erkek,51,İç Anadolu,Eskişehir,Kurumsal,2023-04-13
+CUST-1545,Erkek,42,Karadeniz,Ordu,Kurumsal,2023-03-07
+CUST-1546,Erkek,59,Akdeniz,Adana,Bireysel,2023-02-28
+CUST-1547,Erkek,48,Marmara,Bursa,Bireysel,2022-05-22
+CUST-1548,Erkek,37,İç Anadolu,Ankara,Bireysel,2022-08-10
+CUST-1549,Kadın,31,Marmara,Balıkesir,Bireysel,2022-01-02
+CUST-1550,Erkek,39,Marmara,İstanbul,Bireysel,2023-04-22
+CUST-1551,Erkek,34,Marmara,Balıkesir,Bireysel,2022-03-05
+CUST-1552,Erkek,43,Ege,İzmir,Bireysel,2022-12-23
+CUST-1553,Erkek,32,İç Anadolu,Kayseri,Bireysel,2023-03-21
+CUST-1554,Kadın,47,Marmara,Balıkesir,Kurumsal,2023-04-25
+CUST-1555,Erkek,63,Marmara,Balıkesir,Bireysel,2022-11-28
+CUST-1556,Erkek,42,Akdeniz,Adana,Kurumsal,2022-01-26
+CUST-1557,Erkek,61,Akdeniz,Antalya,Bireysel,2022-10-03
+CUST-1558,Erkek,30,Marmara,İstanbul,Kurumsal,2022-12-14
+CUST-1559,Erkek,26,Akdeniz,Hatay,Bireysel,2022-12-08
+CUST-1560,Erkek,64,Akdeniz,Adana,Bireysel,2022-09-14
+CUST-1561,Kadın,29,Marmara,Bursa,Bireysel,2022-08-06
+CUST-1562,Kadın,24,İç Anadolu,Kayseri,Bireysel,2023-03-17
+CUST-1563,Kadın,37,Karadeniz,Samsun,Bireysel,2022-10-18
+CUST-1564,Erkek,61,Karadeniz,Rize,Bireysel,2022-02-18
+CUST-1565,Kadın,56,Marmara,Bursa,Kurumsal,2022-03-31
+CUST-1566,Kadın,64,Karadeniz,Samsun,Bireysel,2022-09-22
+CUST-1567,Kadın,44,Karadeniz,Samsun,Kurumsal,2022-11-03
+CUST-1568,Erkek,36,İç Anadolu,Eskişehir,Bireysel,2022-07-11
+CUST-1569,Erkek,24,İç Anadolu,Konya,Öğrenci,2022-02-15
+CUST-1570,Erkek,35,Karadeniz,Samsun,Bireysel,2022-03-13
+CUST-1571,Erkek,56,Karadeniz,Samsun,Bireysel,2022-10-28
+CUST-1572,Erkek,25,Ege,Manisa,Öğrenci,2022-06-02
+CUST-1573,Erkek,46,İç Anadolu,Konya,Bireysel,2022-06-26
+CUST-1574,Kadın,53,Akdeniz,Adana,Bireysel,2022-06-10
+CUST-1575,Erkek,51,Akdeniz,Adana,Bireysel,2023-02-28
+CUST-1576,Kadın,38,Akdeniz,Antalya,Bireysel,2022-02-10
+CUST-1577,Kadın,25,Ege,Manisa,Kurumsal,2022-11-03
+CUST-1578,Kadın,32,İç Anadolu,Ankara,Bireysel,2023-01-12
+CUST-1579,Erkek,25,Akdeniz,Mersin,Kurumsal,2022-04-03
+CUST-1580,Kadın,18,İç Anadolu,Kayseri,Öğrenci,2023-03-01
+CUST-1581,Erkek,38,Akdeniz,Mersin,Bireysel,2023-04-19
+CUST-1582,Erkek,54,Karadeniz,Samsun,Kurumsal,2023-02-13
+CUST-1583,Kadın,41,Marmara,Bursa,Kurumsal,2023-02-24
+CUST-1584,Erkek,61,İç Anadolu,Ankara,Bireysel,2022-05-02
+CUST-1585,Erkek,26,Akdeniz,Hatay,Kurumsal,2022-06-05
+CUST-1586,Erkek,63,Akdeniz,Mersin,Kurumsal,2022-03-16
+CUST-1587,Kadın,56,Ege,Manisa,Kurumsal,2023-02-12
+CUST-1588,Erkek,27,Ege,Muğla,Bireysel,2023-02-25
+CUST-1589,Erkek,22,Marmara,İstanbul,Öğrenci,2022-07-21
+CUST-1590,Erkek,54,Akdeniz,Adana,Kurumsal,2023-04-20
+CUST-1591,Kadın,28,İç Anadolu,Ankara,Bireysel,2023-01-27
+CUST-1592,Kadın,61,Ege,Muğla,Bireysel,2022-11-17
+CUST-1593,Erkek,53,Akdeniz,Antalya,Bireysel,2023-01-11
+CUST-1594,Kadın,19,İç Anadolu,Eskişehir,Öğrenci,2022-06-04
+CUST-1595,Erkek,29,İç Anadolu,Kayseri,Bireysel,2022-11-11
+CUST-1596,Kadın,60,Karadeniz,Ordu,Bireysel,2022-05-02
+CUST-1597,Erkek,20,Karadeniz,Samsun,Öğrenci,2022-03-28
+CUST-1598,Erkek,52,Akdeniz,Adana,Kurumsal,2022-03-18
+CUST-1599,Erkek,55,İç Anadolu,Eskişehir,Bireysel,2023-05-11
+CUST-1600,Erkek,36,Akdeniz,Antalya,Bireysel,2022-06-11
+CUST-1601,Erkek,26,Karadeniz,Trabzon,Bireysel,2022-02-11
+CUST-1602,Kadın,44,Ege,Muğla,Kurumsal,2023-03-06
+CUST-1603,Erkek,21,Akdeniz,Antalya,Öğrenci,2023-05-14
+CUST-1604,Erkek,58,Marmara,Balıkesir,Bireysel,2023-02-01
+CUST-1605,Erkek,40,Ege,Manisa,Bireysel,2022-04-09
+CUST-1606,Erkek,47,Akdeniz,Adana,Kurumsal,2022-09-07
+CUST-1607,Kadın,51,İç Anadolu,Ankara,Kurumsal,2022-01-05
+CUST-1608,Erkek,50,Marmara,İstanbul,Bireysel,2022-04-27
+CUST-1609,Erkek,35,Ege,Manisa,Bireysel,2022-09-03
+CUST-1610,Kadın,28,Karadeniz,Trabzon,Kurumsal,2023-04-10
+CUST-1611,Kadın,29,Akdeniz,Antalya,Kurumsal,2022-01-17
+CUST-1612,Kadın,55,İç Anadolu,Eskişehir,Bireysel,2022-03-11
+CUST-1613,Erkek,47,Ege,Muğla,Bireysel,2023-02-11
+CUST-1614,Erkek,19,İç Anadolu,Eskişehir,Öğrenci,2023-04-10
+CUST-1615,Kadın,21,İç Anadolu,Ankara,Öğrenci,2023-03-11
+CUST-1616,Kadın,24,Akdeniz,Mersin,Öğrenci,2022-11-25
+CUST-1617,Erkek,56,Akdeniz,Antalya,Bireysel,2022-12-18
+CUST-1618,Erkek,28,İç Anadolu,Eskişehir,Kurumsal,2022-01-13
+CUST-1619,Kadın,55,Karadeniz,Ordu,Kurumsal,2022-01-22
+CUST-1620,Kadın,33,Karadeniz,Trabzon,Kurumsal,2022-10-25
+CUST-1621,Erkek,47,Karadeniz,Rize,Kurumsal,2022-02-04
+CUST-1622,Erkek,31,Marmara,Bursa,Bireysel,2022-10-09
+CUST-1623,Erkek,26,Marmara,Balıkesir,Bireysel,2022-03-06
+CUST-1624,Erkek,60,Akdeniz,Antalya,Kurumsal,2022-05-21
+CUST-1625,Erkek,24,Karadeniz,Rize,Kurumsal,2022-06-13
+CUST-1626,Erkek,32,İç Anadolu,Konya,Bireysel,2022-10-17
+CUST-1627,Erkek,58,Akdeniz,Adana,Bireysel,2022-03-13
+CUST-1628,Erkek,55,İç Anadolu,Konya,Kurumsal,2022-10-17
+CUST-1629,Kadın,39,Karadeniz,Samsun,Bireysel,2022-03-07
+CUST-1630,Kadın,39,Marmara,Kocaeli,Kurumsal,2022-12-24
+CUST-1631,Erkek,54,Akdeniz,Adana,Bireysel,2022-10-17
+CUST-1632,Kadın,50,İç Anadolu,Kayseri,Bireysel,2022-04-28
+CUST-1633,Erkek,40,Karadeniz,Ordu,Bireysel,2022-08-21
+CUST-1634,Erkek,42,Karadeniz,Samsun,Kurumsal,2022-11-09
+CUST-1635,Erkek,46,Marmara,Bursa,Bireysel,2022-02-01
+CUST-1636,Kadın,43,Ege,Aydın,Kurumsal,2022-06-09
+CUST-1637,Kadın,47,Ege,Aydın,Bireysel,2022-12-01
+CUST-1638,Kadın,19,Akdeniz,Antalya,Öğrenci,2022-01-12
+CUST-1639,Erkek,34,Ege,Aydın,Kurumsal,2022-12-27
+CUST-1640,Erkek,52,Akdeniz,Antalya,Bireysel,2022-06-03
+CUST-1641,Erkek,46,Ege,Muğla,Bireysel,2022-03-29
+CUST-1642,Erkek,52,Ege,Muğla,Bireysel,2022-06-05
+CUST-1643,Erkek,32,İç Anadolu,Ankara,Bireysel,2023-02-15
+CUST-1644,Kadın,38,Ege,Muğla,Bireysel,2022-11-03
+CUST-1645,Kadın,25,Karadeniz,Ordu,Öğrenci,2023-04-05
+CUST-1646,Erkek,49,İç Anadolu,Ankara,Bireysel,2023-02-17
+CUST-1647,Kadın,33,Marmara,Balıkesir,Kurumsal,2022-06-24
+CUST-1648,Erkek,56,Karadeniz,Samsun,Kurumsal,2022-01-24
+CUST-1649,Erkek,18,Akdeniz,Mersin,Öğrenci,2022-04-04
+CUST-1650,Erkek,35,Marmara,İstanbul,Bireysel,2022-10-20
+CUST-1651,Kadın,62,Ege,İzmir,Bireysel,2022-01-28
+CUST-1652,Kadın,37,Marmara,Kocaeli,Bireysel,2022-08-15
+CUST-1653,Erkek,36,Akdeniz,Antalya,Bireysel,2022-07-29
+CUST-1654,Kadın,39,Karadeniz,Samsun,Bireysel,2022-05-17
+CUST-1655,Kadın,45,Marmara,Bursa,Bireysel,2023-04-26
+CUST-1656,Erkek,57,Akdeniz,Antalya,Kurumsal,2023-01-28
+CUST-1657,Kadın,44,Akdeniz,Adana,Kurumsal,2022-01-28
+CUST-1658,Erkek,58,Marmara,Balıkesir,Bireysel,2022-01-13
+CUST-1659,Kadın,33,Marmara,İstanbul,Bireysel,2022-02-15
+CUST-1660,Kadın,23,Karadeniz,Samsun,Öğrenci,2022-12-03
+CUST-1661,Erkek,26,Akdeniz,Adana,Bireysel,2022-04-21
+CUST-1662,Kadın,52,Marmara,Balıkesir,Bireysel,2022-06-20
+CUST-1663,Kadın,61,Marmara,Balıkesir,Bireysel,2022-11-17
+CUST-1664,Erkek,40,Akdeniz,Mersin,Kurumsal,2022-04-14
+CUST-1665,Kadın,53,Akdeniz,Adana,Kurumsal,2022-08-21
+CUST-1666,Kadın,55,Ege,İzmir,Bireysel,2022-06-02
+CUST-1667,Kadın,35,Marmara,Kocaeli,Bireysel,2022-01-16
+CUST-1668,Erkek,59,İç Anadolu,Ankara,Kurumsal,2022-04-21
+CUST-1669,Kadın,56,İç Anadolu,Ankara,Bireysel,2023-04-16
+CUST-1670,Kadın,27,Marmara,Balıkesir,Bireysel,2022-04-14
+CUST-1671,Kadın,57,İç Anadolu,Ankara,Bireysel,2023-02-16
+CUST-1672,Kadın,49,Karadeniz,Ordu,Bireysel,2022-01-04
+CUST-1673,Erkek,25,Ege,Muğla,Öğrenci,2022-04-06
+CUST-1674,Kadın,51,Akdeniz,Adana,Kurumsal,2022-10-05
+CUST-1675,Kadın,30,Marmara,İstanbul,Bireysel,2022-12-28
+CUST-1676,Erkek,42,Marmara,Bursa,Kurumsal,2022-09-24
+CUST-1677,Kadın,54,Karadeniz,Samsun,Bireysel,2023-02-16
+CUST-1678,Erkek,61,İç Anadolu,Eskişehir,Kurumsal,2022-08-04
+CUST-1679,Erkek,49,Akdeniz,Antalya,Kurumsal,2022-08-29
+CUST-1680,Erkek,34,Ege,İzmir,Bireysel,2022-09-05
+CUST-1681,Kadın,38,Marmara,Bursa,Bireysel,2022-08-12
+CUST-1682,Erkek,29,Karadeniz,Trabzon,Kurumsal,2022-10-21
+CUST-1683,Erkek,54,Ege,Aydın,Bireysel,2022-08-10
+CUST-1684,Kadın,56,İç Anadolu,Konya,Kurumsal,2022-07-28
+CUST-1685,Erkek,51,İç Anadolu,Ankara,Bireysel,2023-05-07
+CUST-1686,Kadın,49,Marmara,Balıkesir,Kurumsal,2023-03-22
+CUST-1687,Erkek,41,Marmara,Balıkesir,Bireysel,2022-01-19
+CUST-1688,Kadın,52,Ege,Aydın,Bireysel,2022-02-28
+CUST-1689,Erkek,39,Karadeniz,Trabzon,Kurumsal,2023-03-26
+CUST-1690,Kadın,31,Ege,Manisa,Bireysel,2023-04-23
+CUST-1691,Erkek,62,Akdeniz,Mersin,Bireysel,2022-03-22
+CUST-1692,Kadın,52,İç Anadolu,Kayseri,Bireysel,2022-03-27
+CUST-1693,Kadın,60,Akdeniz,Antalya,Kurumsal,2023-04-21
+CUST-1694,Erkek,47,Akdeniz,Adana,Kurumsal,2022-06-19
+CUST-1695,Kadın,50,Akdeniz,Hatay,Kurumsal,2022-10-05
+CUST-1696,Erkek,36,Karadeniz,Ordu,Bireysel,2022-06-22
+CUST-1697,Kadın,50,Ege,Muğla,Bireysel,2022-02-03
+CUST-1698,Erkek,30,İç Anadolu,Ankara,Bireysel,2022-08-29
+CUST-1699,Kadın,58,İç Anadolu,Kayseri,Bireysel,2022-04-09
+CUST-1700,Kadın,40,Marmara,Kocaeli,Bireysel,2022-10-01
+CUST-1701,Erkek,50,Karadeniz,Rize,Bireysel,2022-03-23
+CUST-1702,Kadın,49,Akdeniz,Antalya,Bireysel,2022-12-31
+CUST-1703,Erkek,34,Akdeniz,Hatay,Bireysel,2022-02-10
+CUST-1704,Erkek,45,Marmara,İstanbul,Bireysel,2022-12-20
+CUST-1705,Erkek,25,Karadeniz,Samsun,Öğrenci,2022-05-19
+CUST-1706,Kadın,42,İç Anadolu,Ankara,Bireysel,2022-04-19
+CUST-1707,Erkek,49,Akdeniz,Mersin,Kurumsal,2022-02-09
+CUST-1708,Erkek,43,Karadeniz,Samsun,Kurumsal,2023-02-03
+CUST-1709,Kadın,64,Ege,Muğla,Bireysel,2023-01-03
+CUST-1710,Kadın,50,İç Anadolu,Kayseri,Kurumsal,2022-11-20
+CUST-1711,Erkek,26,Ege,Manisa,Kurumsal,2023-01-02
+CUST-1712,Kadın,57,İç Anadolu,Kayseri,Bireysel,2023-04-22
+CUST-1713,Erkek,46,Ege,Muğla,Bireysel,2022-06-30
+CUST-1714,Erkek,23,Akdeniz,Mersin,Öğrenci,2022-06-30
+CUST-1715,Kadın,29,Marmara,İstanbul,Bireysel,2022-12-23
+CUST-1716,Erkek,61,Marmara,Bursa,Bireysel,2022-03-26
+CUST-1717,Erkek,45,Karadeniz,Rize,Bireysel,2022-10-30
+CUST-1718,Erkek,59,Akdeniz,Hatay,Bireysel,2022-08-27
+CUST-1719,Kadın,53,Marmara,İstanbul,Kurumsal,2022-07-09
+CUST-1720,Erkek,37,Karadeniz,Samsun,Bireysel,2022-07-04
+CUST-1721,Erkek,39,İç Anadolu,Eskişehir,Kurumsal,2022-01-22
+CUST-1722,Erkek,39,Karadeniz,Trabzon,Bireysel,2022-02-28
+CUST-1723,Kadın,32,Ege,Aydın,Bireysel,2023-04-10
+CUST-1724,Erkek,40,İç Anadolu,Kayseri,Bireysel,2022-11-20
+CUST-1725,Erkek,60,Akdeniz,Mersin,Kurumsal,2022-04-12
+CUST-1726,Erkek,59,Marmara,İstanbul,Kurumsal,2022-03-22
+CUST-1727,Kadın,38,Marmara,Kocaeli,Kurumsal,2022-04-06
+CUST-1728,Erkek,19,İç Anadolu,Konya,Öğrenci,2022-06-16
+CUST-1729,Kadın,64,Karadeniz,Trabzon,Bireysel,2023-04-22
+CUST-1730,Kadın,26,Marmara,İstanbul,Bireysel,2022-12-03
+CUST-1731,Erkek,24,Marmara,Balıkesir,Kurumsal,2022-12-03
+CUST-1732,Kadın,55,İç Anadolu,Konya,Bireysel,2022-05-08
+CUST-1733,Erkek,58,Akdeniz,Adana,Bireysel,2023-05-03
+CUST-1734,Erkek,24,Ege,İzmir,Öğrenci,2023-01-23
+CUST-1735,Erkek,56,İç Anadolu,Ankara,Kurumsal,2023-03-09
+CUST-1736,Erkek,39,İç Anadolu,Ankara,Bireysel,2023-01-25
+CUST-1737,Erkek,42,Karadeniz,Rize,Kurumsal,2022-07-23
+CUST-1738,Kadın,54,İç Anadolu,Eskişehir,Kurumsal,2023-03-28
+CUST-1739,Kadın,60,Akdeniz,Mersin,Bireysel,2022-11-24
+CUST-1740,Erkek,41,İç Anadolu,Konya,Kurumsal,2023-05-15
+CUST-1741,Kadın,34,Akdeniz,Antalya,Bireysel,2023-01-24
+CUST-1742,Erkek,28,İç Anadolu,Kayseri,Kurumsal,2022-02-26
+CUST-1743,Kadın,56,Akdeniz,Adana,Kurumsal,2022-11-14
+CUST-1744,Kadın,28,Ege,Muğla,Bireysel,2023-01-14
+CUST-1745,Kadın,56,Ege,Aydın,Bireysel,2022-05-21
+CUST-1746,Erkek,37,Akdeniz,Adana,Kurumsal,2022-08-03
+CUST-1747,Kadın,43,İç Anadolu,Kayseri,Kurumsal,2022-01-29
+CUST-1748,Erkek,31,Ege,Manisa,Bireysel,2022-08-06
+CUST-1749,Kadın,28,Karadeniz,Trabzon,Bireysel,2023-02-16
+CUST-1750,Kadın,64,Marmara,İstanbul,Bireysel,2023-03-09
+CUST-1751,Erkek,26,İç Anadolu,Ankara,Bireysel,2022-09-23
+CUST-1752,Kadın,47,Ege,İzmir,Kurumsal,2022-03-15
+CUST-1753,Erkek,52,Ege,Manisa,Bireysel,2023-05-10
+CUST-1754,Kadın,42,Akdeniz,Mersin,Bireysel,2022-03-25
+CUST-1755,Erkek,57,İç Anadolu,Eskişehir,Bireysel,2023-02-10
+CUST-1756,Kadın,32,İç Anadolu,Konya,Bireysel,2023-04-26
+CUST-1757,Kadın,25,Marmara,Kocaeli,Bireysel,2023-02-17
+CUST-1758,Erkek,33,Akdeniz,Antalya,Bireysel,2022-11-05
+CUST-1759,Erkek,20,İç Anadolu,Konya,Öğrenci,2022-09-05
+CUST-1760,Erkek,51,Akdeniz,Adana,Bireysel,2023-03-25
+CUST-1761,Erkek,32,Marmara,İstanbul,Bireysel,2022-06-13
+CUST-1762,Erkek,55,İç Anadolu,Ankara,Bireysel,2022-10-15
+CUST-1763,Kadın,58,Marmara,Bursa,Bireysel,2022-09-01
+CUST-1764,Kadın,24,İç Anadolu,Ankara,Öğrenci,2022-09-28
+CUST-1765,Erkek,49,Akdeniz,Antalya,Bireysel,2023-02-07
+CUST-1766,Erkek,43,Akdeniz,Antalya,Bireysel,2023-05-08
+CUST-1767,Kadın,56,Marmara,İstanbul,Kurumsal,2023-01-01
+CUST-1768,Kadın,34,Karadeniz,Ordu,Bireysel,2022-03-02
+CUST-1769,Erkek,34,Ege,Manisa,Bireysel,2022-01-16
+CUST-1770,Kadın,19,Ege,Aydın,Öğrenci,2022-02-07
+CUST-1771,Erkek,25,İç Anadolu,Kayseri,Öğrenci,2022-06-23
+CUST-1772,Erkek,50,İç Anadolu,Konya,Bireysel,2022-08-26
+CUST-1773,Erkek,29,İç Anadolu,Konya,Bireysel,2022-04-17
+CUST-1774,Kadın,56,Marmara,Kocaeli,Bireysel,2022-07-01
+CUST-1775,Erkek,44,Karadeniz,Samsun,Bireysel,2022-09-15
+CUST-1776,Kadın,61,Karadeniz,Trabzon,Bireysel,2022-06-17
+CUST-1777,Erkek,38,Akdeniz,Adana,Kurumsal,2022-04-02
+CUST-1778,Kadın,34,Ege,Aydın,Bireysel,2022-07-05
+CUST-1779,Kadın,30,Marmara,İstanbul,Bireysel,2022-03-02
+CUST-1780,Kadın,38,İç Anadolu,Konya,Bireysel,2022-05-09
+CUST-1781,Erkek,24,İç Anadolu,Konya,Bireysel,2022-04-12
+CUST-1782,Erkek,33,Karadeniz,Rize,Bireysel,2022-12-14
+CUST-1783,Erkek,43,Karadeniz,Trabzon,Kurumsal,2022-03-24
+CUST-1784,Kadın,35,İç Anadolu,Kayseri,Bireysel,2023-03-20
+CUST-1785,Erkek,44,İç Anadolu,Kayseri,Bireysel,2022-03-02
+CUST-1786,Erkek,55,Ege,Muğla,Kurumsal,2022-02-24
+CUST-1787,Erkek,62,Karadeniz,Rize,Kurumsal,2022-12-02
+CUST-1788,Erkek,29,Marmara,İstanbul,Bireysel,2023-05-14
+CUST-1789,Erkek,28,Karadeniz,Ordu,Bireysel,2023-03-02
+CUST-1790,Erkek,53,Marmara,Balıkesir,Kurumsal,2022-11-09
+CUST-1791,Erkek,36,Marmara,İstanbul,Bireysel,2022-06-09
+CUST-1792,Erkek,40,Akdeniz,Mersin,Bireysel,2022-09-04
+CUST-1793,Kadın,41,Karadeniz,Trabzon,Bireysel,2022-04-04
+CUST-1794,Erkek,55,Marmara,Bursa,Bireysel,2023-03-02
+CUST-1795,Erkek,59,İç Anadolu,Konya,Bireysel,2022-06-11
+CUST-1796,Kadın,62,Marmara,Bursa,Kurumsal,2022-09-04
+CUST-1797,Kadın,47,İç Anadolu,Konya,Bireysel,2022-03-13
+CUST-1798,Erkek,56,İç Anadolu,Ankara,Bireysel,2022-01-19
+CUST-1799,Kadın,24,İç Anadolu,Konya,Bireysel,2023-02-17
+CUST-1800,Kadın,24,Ege,Aydın,Bireysel,2023-02-22
+CUST-1801,Kadın,18,Karadeniz,Rize,Öğrenci,2022-09-02
+CUST-1802,Kadın,49,Karadeniz,Samsun,Bireysel,2022-01-17
+CUST-1803,Erkek,30,Karadeniz,Samsun,Kurumsal,2022-11-10
+CUST-1804,Erkek,40,Marmara,Kocaeli,Bireysel,2022-06-20
+CUST-1805,Erkek,52,Marmara,Kocaeli,Bireysel,2022-04-27
+CUST-1806,Kadın,48,İç Anadolu,Kayseri,Kurumsal,2022-11-06
+CUST-1807,Erkek,52,Akdeniz,Antalya,Bireysel,2022-03-27
+CUST-1808,Kadın,64,Marmara,Kocaeli,Bireysel,2022-07-18
+CUST-1809,Erkek,38,Karadeniz,Ordu,Kurumsal,2023-01-22
+CUST-1810,Erkek,63,İç Anadolu,Ankara,Bireysel,2022-05-26
+CUST-1811,Kadın,31,İç Anadolu,Kayseri,Bireysel,2022-01-22
+CUST-1812,Kadın,38,Akdeniz,Mersin,Bireysel,2022-08-08
+CUST-1813,Kadın,19,Akdeniz,Antalya,Öğrenci,2022-11-29
+CUST-1814,Kadın,52,Karadeniz,Trabzon,Bireysel,2022-05-03
+CUST-1815,Erkek,37,Ege,İzmir,Bireysel,2022-11-16
+CUST-1816,Erkek,34,İç Anadolu,Eskişehir,Bireysel,2022-05-02
+CUST-1817,Erkek,25,İç Anadolu,Kayseri,Bireysel,2022-03-03
+CUST-1818,Kadın,57,Marmara,İstanbul,Bireysel,2022-11-13
+CUST-1819,Kadın,60,Marmara,Balıkesir,Kurumsal,2023-01-03
+CUST-1820,Kadın,40,Karadeniz,Trabzon,Kurumsal,2022-12-21
+CUST-1821,Erkek,30,Karadeniz,Ordu,Kurumsal,2022-04-02
+CUST-1822,Erkek,40,Marmara,Kocaeli,Kurumsal,2023-02-04
+CUST-1823,Kadın,60,İç Anadolu,Ankara,Kurumsal,2022-09-02
+CUST-1824,Erkek,34,Ege,Muğla,Bireysel,2022-02-23
+CUST-1825,Erkek,25,İç Anadolu,Ankara,Bireysel,2022-04-04
+CUST-1826,Erkek,39,Akdeniz,Adana,Bireysel,2022-03-22
+CUST-1827,Erkek,49,Ege,Aydın,Bireysel,2022-10-06
+CUST-1828,Kadın,61,Ege,Aydın,Kurumsal,2022-08-27
+CUST-1829,Erkek,24,İç Anadolu,Konya,Kurumsal,2023-04-23
+CUST-1830,Kadın,36,Karadeniz,Rize,Bireysel,2023-02-15
+CUST-1831,Erkek,38,Akdeniz,Mersin,Bireysel,2022-07-26
+CUST-1832,Kadın,47,Akdeniz,Hatay,Kurumsal,2022-12-06
+CUST-1833,Erkek,51,Ege,İzmir,Kurumsal,2023-01-27
+CUST-1834,Kadın,44,Marmara,İstanbul,Bireysel,2022-04-06
+CUST-1835,Kadın,29,İç Anadolu,Eskişehir,Bireysel,2022-08-05
+CUST-1836,Erkek,30,İç Anadolu,Kayseri,Bireysel,2022-04-14
+CUST-1837,Kadın,34,Karadeniz,Trabzon,Bireysel,2023-04-26
+CUST-1838,Erkek,21,Karadeniz,Rize,Öğrenci,2022-05-20
+CUST-1839,Kadın,33,İç Anadolu,Ankara,Kurumsal,2023-03-27
+CUST-1840,Erkek,39,Karadeniz,Ordu,Bireysel,2022-09-10
+CUST-1841,Erkek,20,Karadeniz,Samsun,Öğrenci,2023-02-09
+CUST-1842,Erkek,58,İç Anadolu,Konya,Bireysel,2022-03-27
+CUST-1843,Kadın,38,Ege,İzmir,Kurumsal,2022-09-13
+CUST-1844,Kadın,28,İç Anadolu,Konya,Bireysel,2022-12-07
+CUST-1845,Kadın,52,Karadeniz,Trabzon,Bireysel,2023-01-18
+CUST-1846,Erkek,48,İç Anadolu,Eskişehir,Kurumsal,2022-10-03
+CUST-1847,Kadın,19,İç Anadolu,Eskişehir,Öğrenci,2022-07-02
+CUST-1848,Erkek,44,Akdeniz,Antalya,Kurumsal,2022-09-25
+CUST-1849,Kadın,43,Ege,Muğla,Kurumsal,2022-06-15
+CUST-1850,Erkek,41,Marmara,Bursa,Bireysel,2022-06-04
+CUST-1851,Erkek,21,Ege,Muğla,Öğrenci,2022-05-13
+CUST-1852,Erkek,33,Marmara,Kocaeli,Kurumsal,2023-02-10
+CUST-1853,Kadın,24,İç Anadolu,Ankara,Kurumsal,2022-05-23
+CUST-1854,Erkek,40,Akdeniz,Adana,Bireysel,2022-04-03
+CUST-1855,Erkek,38,Ege,Muğla,Kurumsal,2022-09-25
+CUST-1856,Kadın,25,Akdeniz,Adana,Öğrenci,2022-03-31
+CUST-1857,Erkek,61,Karadeniz,Samsun,Bireysel,2022-11-18
+CUST-1858,Kadın,63,Akdeniz,Adana,Bireysel,2022-10-26
+CUST-1859,Kadın,53,Akdeniz,Hatay,Bireysel,2022-07-28
+CUST-1860,Kadın,30,Akdeniz,Hatay,Bireysel,2023-04-09
+CUST-1861,Kadın,50,Karadeniz,Ordu,Kurumsal,2022-06-30
+CUST-1862,Erkek,40,Marmara,Kocaeli,Bireysel,2022-08-27
+CUST-1863,Erkek,23,Marmara,Balıkesir,Öğrenci,2023-01-01
+CUST-1864,Erkek,35,Akdeniz,Hatay,Bireysel,2023-03-09
+CUST-1865,Erkek,42,Marmara,Balıkesir,Kurumsal,2023-05-09
+CUST-1866,Kadın,57,İç Anadolu,Konya,Bireysel,2022-09-08
+CUST-1867,Kadın,55,Akdeniz,Adana,Bireysel,2022-02-21
+CUST-1868,Kadın,18,Karadeniz,Rize,Öğrenci,2022-10-23
+CUST-1869,Erkek,31,Akdeniz,Hatay,Bireysel,2022-04-03
+CUST-1870,Erkek,59,Akdeniz,Adana,Bireysel,2022-05-05
+CUST-1871,Kadın,23,Karadeniz,Rize,Öğrenci,2022-01-04
+CUST-1872,Kadın,46,Ege,Muğla,Bireysel,2022-10-05
+CUST-1873,Kadın,55,Ege,Manisa,Bireysel,2022-07-09
+CUST-1874,Kadın,47,Karadeniz,Rize,Bireysel,2022-12-21
+CUST-1875,Erkek,40,Akdeniz,Hatay,Bireysel,2022-03-06
+CUST-1876,Erkek,57,Ege,İzmir,Kurumsal,2022-09-22
+CUST-1877,Erkek,35,Karadeniz,Samsun,Bireysel,2023-02-28
+CUST-1878,Erkek,62,Marmara,Kocaeli,Bireysel,2022-01-13
+CUST-1879,Kadın,49,Marmara,Balıkesir,Kurumsal,2022-08-07
+CUST-1880,Erkek,35,Karadeniz,Trabzon,Bireysel,2023-03-04
+CUST-1881,Erkek,41,İç Anadolu,Kayseri,Bireysel,2023-02-04
+CUST-1882,Kadın,63,Akdeniz,Mersin,Kurumsal,2023-02-01
+CUST-1883,Kadın,42,Karadeniz,Samsun,Kurumsal,2022-03-18
+CUST-1884,Erkek,27,Marmara,Balıkesir,Bireysel,2022-02-08
+CUST-1885,Kadın,61,Marmara,İstanbul,Kurumsal,2022-04-30
+CUST-1886,Kadın,26,Akdeniz,Antalya,Bireysel,2022-08-25
+CUST-1887,Erkek,61,Ege,Muğla,Bireysel,2022-07-19
+CUST-1888,Erkek,33,Marmara,Bursa,Bireysel,2023-01-22
+CUST-1889,Erkek,52,İç Anadolu,Kayseri,Bireysel,2022-09-12
+CUST-1890,Erkek,18,Karadeniz,Trabzon,Öğrenci,2022-10-14
+CUST-1891,Erkek,45,Karadeniz,Trabzon,Bireysel,2023-01-23
+CUST-1892,Kadın,43,Karadeniz,Samsun,Kurumsal,2023-05-15
+CUST-1893,Erkek,24,Karadeniz,Samsun,Bireysel,2023-02-03
+CUST-1894,Kadın,50,Karadeniz,Samsun,Bireysel,2022-04-19
+CUST-1895,Erkek,62,İç Anadolu,Konya,Kurumsal,2022-08-17
+CUST-1896,Kadın,25,Marmara,Balıkesir,Kurumsal,2022-09-03
+CUST-1897,Erkek,36,Ege,Manisa,Bireysel,2022-04-06
+CUST-1898,Kadın,36,Ege,İzmir,Kurumsal,2022-06-20
+CUST-1899,Erkek,40,Karadeniz,Trabzon,Bireysel,2023-02-28
+CUST-1900,Kadın,33,İç Anadolu,Kayseri,Kurumsal,2022-12-30
+CUST-1901,Kadın,56,Karadeniz,Ordu,Kurumsal,2022-11-09
+CUST-1902,Erkek,58,Akdeniz,Antalya,Kurumsal,2022-11-27
+CUST-1903,Erkek,35,Ege,Muğla,Bireysel,2023-04-26
+CUST-1904,Kadın,25,Karadeniz,Trabzon,Öğrenci,2022-06-04
+CUST-1905,Kadın,34,Akdeniz,Antalya,Kurumsal,2022-04-13
+CUST-1906,Kadın,52,İç Anadolu,Eskişehir,Kurumsal,2022-08-01
+CUST-1907,Kadın,23,Karadeniz,Rize,Öğrenci,2023-03-10
+CUST-1908,Kadın,31,Karadeniz,Samsun,Kurumsal,2022-08-21
+CUST-1909,Kadın,44,Marmara,Kocaeli,Bireysel,2022-04-25
+CUST-1910,Erkek,51,Ege,Manisa,Bireysel,2022-09-30
+CUST-1911,Kadın,61,İç Anadolu,Kayseri,Bireysel,2022-04-29
+CUST-1912,Kadın,49,Karadeniz,Ordu,Bireysel,2022-06-26
+CUST-1913,Kadın,19,İç Anadolu,Kayseri,Öğrenci,2022-10-15
+CUST-1914,Kadın,42,Marmara,İstanbul,Bireysel,2022-07-05
+CUST-1915,Kadın,51,Akdeniz,Mersin,Bireysel,2023-01-20
+CUST-1916,Erkek,24,Ege,Aydın,Öğrenci,2023-04-05
+CUST-1917,Erkek,32,Ege,Muğla,Bireysel,2023-01-02
+CUST-1918,Kadın,48,Akdeniz,Mersin,Bireysel,2022-10-17
+CUST-1919,Kadın,32,İç Anadolu,Konya,Bireysel,2022-10-09
+CUST-1920,Erkek,26,Akdeniz,Hatay,Bireysel,2022-06-01
+CUST-1921,Kadın,38,Karadeniz,Ordu,Kurumsal,2022-06-12
+CUST-1922,Kadın,57,Akdeniz,Antalya,Kurumsal,2023-04-16
+CUST-1923,Kadın,46,Ege,Muğla,Kurumsal,2022-06-25
+CUST-1924,Kadın,26,Marmara,Bursa,Bireysel,2023-01-13
+CUST-1925,Kadın,45,Karadeniz,Samsun,Kurumsal,2023-04-14
+CUST-1926,Erkek,38,Karadeniz,Samsun,Bireysel,2022-09-07
+CUST-1927,Erkek,47,Akdeniz,Mersin,Bireysel,2023-01-12
+CUST-1928,Erkek,46,Ege,İzmir,Bireysel,2023-03-28
+CUST-1929,Erkek,45,İç Anadolu,Konya,Bireysel,2022-12-26
+CUST-1930,Erkek,31,İç Anadolu,Kayseri,Bireysel,2022-07-22
+CUST-1931,Erkek,60,Karadeniz,Rize,Bireysel,2022-02-25
+CUST-1932,Erkek,32,İç Anadolu,Ankara,Bireysel,2022-02-28
+CUST-1933,Erkek,53,Ege,İzmir,Kurumsal,2022-09-24
+CUST-1934,Kadın,36,Akdeniz,Hatay,Bireysel,2023-01-14
+CUST-1935,Kadın,53,Karadeniz,Samsun,Kurumsal,2023-04-02
+CUST-1936,Kadın,54,Ege,İzmir,Bireysel,2022-02-21
+CUST-1937,Kadın,63,Marmara,Balıkesir,Bireysel,2022-04-11
+CUST-1938,Kadın,44,Marmara,İstanbul,Bireysel,2022-12-01
+CUST-1939,Erkek,39,Marmara,Bursa,Bireysel,2022-01-08
+CUST-1940,Erkek,40,Marmara,İstanbul,Bireysel,2022-06-15
+CUST-1941,Kadın,58,Marmara,Balıkesir,Bireysel,2023-01-01
+CUST-1942,Erkek,36,Karadeniz,Ordu,Kurumsal,2022-08-29
+CUST-1943,Kadın,22,Karadeniz,Rize,Öğrenci,2023-04-15
+CUST-1944,Kadın,49,Ege,İzmir,Bireysel,2022-10-30
+CUST-1945,Kadın,41,Karadeniz,Trabzon,Bireysel,2023-01-23
+CUST-1946,Erkek,30,Marmara,İstanbul,Kurumsal,2023-01-19
+CUST-1947,Erkek,58,Akdeniz,Mersin,Bireysel,2022-12-03
+CUST-1948,Erkek,55,İç Anadolu,Eskişehir,Bireysel,2022-05-02
+CUST-1949,Erkek,40,Akdeniz,Hatay,Bireysel,2022-11-23
+CUST-1950,Kadın,59,İç Anadolu,Konya,Bireysel,2022-05-21
+CUST-1951,Kadın,38,Ege,Muğla,Kurumsal,2022-08-27
+CUST-1952,Kadın,39,Akdeniz,Hatay,Bireysel,2022-07-09
+CUST-1953,Kadın,25,Akdeniz,Antalya,Bireysel,2022-10-14
+CUST-1954,Erkek,54,İç Anadolu,Konya,Bireysel,2022-07-20
+CUST-1955,Kadın,62,Karadeniz,Trabzon,Kurumsal,2023-05-05
+CUST-1956,Kadın,33,Karadeniz,Samsun,Bireysel,2022-08-18
+CUST-1957,Erkek,62,Ege,Aydın,Kurumsal,2022-03-01
+CUST-1958,Erkek,28,Ege,Manisa,Kurumsal,2022-12-16
+CUST-1959,Kadın,52,Ege,İzmir,Bireysel,2023-02-11
+CUST-1960,Kadın,55,Ege,Aydın,Bireysel,2023-04-02
+CUST-1961,Kadın,26,Karadeniz,Trabzon,Bireysel,2022-04-16
+CUST-1962,Kadın,24,İç Anadolu,Eskişehir,Öğrenci,2023-03-28
+CUST-1963,Kadın,45,Marmara,İstanbul,Bireysel,2023-03-30
+CUST-1964,Kadın,34,İç Anadolu,Konya,Bireysel,2023-04-06
+CUST-1965,Kadın,35,İç Anadolu,Konya,Bireysel,2022-03-28
+CUST-1966,Erkek,32,Marmara,Bursa,Bireysel,2022-10-06
+CUST-1967,Erkek,46,Ege,Manisa,Kurumsal,2022-01-30
+CUST-1968,Kadın,48,Marmara,Balıkesir,Bireysel,2022-03-15
+CUST-1969,Kadın,64,Ege,İzmir,Kurumsal,2022-01-25
+CUST-1970,Kadın,58,İç Anadolu,Kayseri,Bireysel,2023-04-04
+CUST-1971,Erkek,30,İç Anadolu,Ankara,Kurumsal,2022-07-28
+CUST-1972,Kadın,34,Ege,Muğla,Bireysel,2022-09-29
+CUST-1973,Erkek,49,Marmara,Kocaeli,Bireysel,2022-05-24
+CUST-1974,Erkek,35,Marmara,Balıkesir,Bireysel,2022-07-07
+CUST-1975,Kadın,19,Karadeniz,Rize,Öğrenci,2022-11-11
+CUST-1976,Kadın,30,İç Anadolu,Eskişehir,Bireysel,2022-07-10
+CUST-1977,Erkek,40,Akdeniz,Hatay,Bireysel,2022-03-04
+CUST-1978,Erkek,31,Karadeniz,Samsun,Bireysel,2022-11-21
+CUST-1979,Kadın,52,Ege,Muğla,Bireysel,2022-06-24
+CUST-1980,Kadın,37,Akdeniz,Antalya,Bireysel,2023-04-03
+CUST-1981,Erkek,52,Karadeniz,Rize,Bireysel,2022-07-14
+CUST-1982,Erkek,36,Akdeniz,Mersin,Bireysel,2022-04-16
+CUST-1983,Erkek,52,Karadeniz,Rize,Bireysel,2022-05-28
+CUST-1984,Kadın,45,Marmara,Bursa,Bireysel,2022-08-12
+CUST-1985,Kadın,42,Ege,İzmir,Kurumsal,2023-04-16
+CUST-1986,Kadın,52,Ege,İzmir,Bireysel,2022-12-22
+CUST-1987,Erkek,62,Akdeniz,Hatay,Bireysel,2023-05-14
+CUST-1988,Erkek,38,İç Anadolu,Konya,Bireysel,2023-03-17
+CUST-1989,Kadın,41,Akdeniz,Antalya,Bireysel,2022-01-05
+CUST-1990,Erkek,45,Akdeniz,Mersin,Kurumsal,2023-03-18
+CUST-1991,Erkek,19,Akdeniz,Antalya,Öğrenci,2022-05-17
+CUST-1992,Erkek,19,Ege,Manisa,Öğrenci,2023-04-23
+CUST-1993,Erkek,42,İç Anadolu,Ankara,Bireysel,2022-04-05
+CUST-1994,Kadın,33,Karadeniz,Rize,Kurumsal,2022-05-10
+CUST-1995,Kadın,39,Ege,Muğla,Kurumsal,2022-01-16
+CUST-1996,Erkek,34,Karadeniz,Ordu,Kurumsal,2023-01-10
+CUST-1997,Erkek,35,Karadeniz,Rize,Kurumsal,2022-04-05
+CUST-1998,Kadın,24,Marmara,İstanbul,Bireysel,2022-02-16
+CUST-1999,Kadın,47,Akdeniz,Antalya,Kurumsal,2022-09-17
